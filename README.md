@@ -20,7 +20,7 @@ We present Genesis, a unified framework for joint generation of multi-view drivi
 
 ## Overview
 <div align="center">
-<img src="assets/images/framework.jpg" width="1000">
+<img src="assets/images/framework.png" width="1000">
 </div>
 
 <!-- ## News
