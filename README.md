@@ -3,7 +3,7 @@
 <div align="center">
 <h3>Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency</h3>
 
-Xiangyu Guo<sup>1\*</sup>, Zhanqian Wu<sup>2\*</sup>, Kaixin Xiong<sup>2\*</sup>, Ziyang Xu<sup>1</sup>, Lijun Zhou<sup>2</sup>, <br> Gangwei Xu<sup>1</sup>, Shaoqing Xu<sup>2</sup>, Haiyang Sun<sup>2†</sup>,  Bing Wang<sup>2</sup>, Guang Chen<sup>2</sup>, Hangjun Ye<sup>2</sup>, Wenyu Liu<sup>1</sup>, Xinggang Wang<sup>1,✉</sup>
+Xiangyu Guo<sup>1\*</sup>, Zhanqian Wu<sup>2\*</sup>, Kaixin Xiong<sup>2\*</sup>, Ziyang Xu<sup>1</sup>, Lijun Zhou<sup>2</sup>, Gangwei Xu<sup>1</sup>, Shaoqing Xu<sup>2</sup>, <br> Haiyang Sun<sup>2†</sup>,  Bing Wang<sup>2</sup>, Guang Chen<sup>2</sup>, Hangjun Ye<sup>2</sup>, Wenyu Liu<sup>1</sup>, Xinggang Wang<sup>1,✉</sup>
 
 <sup>1</sup>  Huazhong University of Science & Technology, <sup>2</sup>  Xiaomi EV 
 
